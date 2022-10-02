@@ -15,7 +15,10 @@ ini adalah tampilannya
 ![Gambar 4](Gambar/screenshot/ss4.png)
 
 # Memformat Teks
-kode untuk memformat teks adalah '<mark>' '<b>' '<i>' '<ins>'
+kode untuk memformat teks adalah '<mark>'
+kode untuk memformat teks adalah '<b>' 
+kode untuk memformat teks adalah '<i>'
+kode untuk memformat teks adalah '<ins>'
 ini adalah tampilannya 
 [Gambar 5](Gambar/screenshot/ss5.png)
 
