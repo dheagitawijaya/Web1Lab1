@@ -12,4 +12,19 @@ ini adalah tampilannya
 kode tag untuk judul adalah '<h1>'
 kode tag untuk judul adalah '<h2>'
 ini adalah tampilannya
-![Gambar 3](Gambar/screenshot/ss4.png)
+![Gambar 4](Gambar/screenshot/ss4.png)
+
+# Memformat Teks
+kode untuk memformat teks adalah '<mark>' '<b>' '<i>' '<ins>'
+ini adalah tampilannya 
+[Gambar 5](Gambar/screenshot/ss5.png)
+
+# Menyisipkan Gambar
+kode tag untuk menyisipkan gambar adalah '<img>'
+ini adalah tampilannya
+[Gambar 6](Gambar/screenshot/ss6.png)
+
+# Menambahkan Hyperlink
+kode untuk menambahkan Hyperlink adalah <nav>'
+ini adalah tampilannya
+[Gambar 7](Gambar/screenshot/ss7.png)
