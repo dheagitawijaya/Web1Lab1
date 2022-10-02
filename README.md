@@ -21,13 +21,3 @@ kode untuk memformat teks adalah '<i>'
 kode untuk memformat teks adalah '<ins>'
 ini adalah tampilannya 
 [Gambar 5](Gambar/screenshot/ss5.png)
-
-# Menyisipkan Gambar
-kode tag untuk menyisipkan gambar adalah '<img>'
-ini adalah tampilannya
-[Gambar 6](Gambar/screenshot/ss6.png)
-
-# Menambahkan Hyperlink
-kode untuk menambahkan Hyperlink adalah <nav>'
-ini adalah tampilannya
-[Gambar 7](Gambar/screenshot/ss7.png)
